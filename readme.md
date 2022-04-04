@@ -7,3 +7,5 @@ the remote repository)    :)
 #After initial commit, added a few changes below and committed again
 
 Trial run 
+
+I have made a change directly here
