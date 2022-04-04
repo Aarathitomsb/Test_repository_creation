@@ -8,4 +8,5 @@ the remote repository)    :)
 
 Trial run 
 
-I have made a change directly here
+
+I have made a change on GitHub again to compare
