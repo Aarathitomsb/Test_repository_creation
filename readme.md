@@ -9,3 +9,5 @@ the remote repository)    :)
 Trial run 
 
 I have made a change directly here
+
+Hi, made change locally
